@@ -20,7 +20,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm Surag, a self-driven MCA graduate and certified Django intern passionate about creating intelligent, user-friendly web applications.  
+I'm Surag, a self-driven PG MCA and certified Django intern passionate about creating intelligent, user-friendly web applications.  
 With experience in full-stack development, ML integration, and UI/UX design, I specialize in building real-world solutions that blend functionality with innovation.
 
 ---
