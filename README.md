@@ -147,6 +147,6 @@ Explore all my work, live demos, resume, and blog at:
 
 If you'd like to support or collaborate:
 
-<a href="(https://linkedin.com/in/suragsunil">
+<a href="(https://linkedin.com/in/suragsunil)">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee" />
 </a>
